@@ -1,9 +1,0 @@
-sample,condition,celltype,fastq
-cDC1_WT_1,WT,cDC1,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895184.fastq.gz
-cDC1_WT_2,WT,cDC1,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895186.fastq.gz
-cDC1_KO_1,KO,cDC1,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895188.fastq.gz
-cDC1_KO_2,KO,cDC1,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895190.fastq.gz
-cDC2_WT_1,WT,cDC2,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895183.fastq.gz
-cDC2_WT_2,WT,cDC2,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895185.fastq.gz
-cDC2_KO_1,KO,cDC2,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895187.fastq.gz
-cDC2_KO_2,KO,cDC2,/projectnb/bf528/students/zhongjn/final-project-template-zhongjn-hue/rawdata/SRR28895189.fastq.gz
