@@ -169,8 +169,3 @@ Transcription factor binding motifs enriched in differential peaks.
 
 Per-sample outputs for quality control and downstream analysis: - Trimmed FASTQ files: `results/{sample}_trimmed.fastq.gz` - Filtered BAM files: `results/{sample}.filtered.bam` and `.bai` - Peak calls: `results/{sample}_peaks.txt` and `.bed` - Tag directories: `results/{sample}_tags/` - QC reports: `results/{sample}_trimmed_fastqc.html` - Trimmomatic logs: `results/{sample}_trimmomatic.log`
 
-## Citation
-
-If you use this pipeline, please cite the original publication:
-
-De Sá Fernandes C, Novoszel P, Gastaldi T, et al. The histone deacetylase HDAC1 controls dendritic cell development and anti-tumor immunity. Cell Rep. 2024;43(6):114308.
